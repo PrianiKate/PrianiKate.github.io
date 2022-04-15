@@ -1,7 +1,8 @@
 # Ekaterina Prianishnikova
 ### Frontend Developer
 
-![plot](./myPhoto.jpg)
+<img align="left" style="margin-right: 30px" height="300" src="https://prianikate.github.io/myPhoto.jpg">
+<!-- ![plot](https://prianikate.github.io/myPhoto.jpg) -->
 
 ## Summary
 Frontend Developer with project experience and strong motivation to develop my skills (it took me 6 month to grow from Junior to Middle). Studies at Saratov State University at the department of Computer Science and Informational Technology (last year). Participated in various programming competitions including Sourthern and Volga Russian Regional Contest, Russia Open High School Team Programming Contest.
@@ -17,8 +18,8 @@ Frontend Developer with project experience and strong motivation to develop my s
 
 ## Education and Certificates
 * 2018 - 2022, Software Engineering, Saratov State University
-* [RS School (Q1 2021)](/RSSchool%20Certificate.pdf)
-* Some courses on Udemy (React - [one](/React.pdf), [two](/Advanced%20React.pdf))
+* [RS School (Q1 2021)](https://prianikate.github.io/RSSchool%20Certificate.pdf)
+* Some courses on Udemy (React - [one](https://prianikate.github.io/React.pdf), [two](https://prianikate.github.io/Advanced%20React.pdf))
 * [Example of code](https://github.com/PrianiKate/priani-kate-ds.e)
 
 ## Languages
@@ -29,7 +30,7 @@ Frontend Developer with project experience and strong motivation to develop my s
 ### Grid Dinamics, UI Engineer
 07/2021 - 04/2022
 
-Mostly worked for medical startup Calibrate that changes the way the world treats weight. My team worked on the marketing site that was written in React & NextJS, added features and integrations for different form flows in Formsort, developed new pages for Prismic, added tags for marketing team in Google Tag Manager.
+Mostly worked for medical MedTech company that helps people to lose weight. My team worked on the marketing site that was written in React & NextJS, added features and integrations for different form flows in Formsort, developed new pages for Prismic, added tags for marketing team in Google Tag Manager.
 
 ### Responsibilities:
 * Developing functionality for marketing site: from specifications review and coding to deployment
