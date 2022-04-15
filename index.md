@@ -1,0 +1,58 @@
+# Ekaterina Prianishnikova
+### Frontend Developer
+
+![plot](./myPhoto.jpg)
+
+## Summary
+Frontend Developer with project experience and strong motivation to develop my skills (it took me 6 month to grow from Junior to Middle). Studies at Saratov State University at the department of Computer Science and Informational Technology (last year). Participated in various programming competitions including Sourthern and Volga Russian Regional Contest, Russia Open High School Team Programming Contest.
+
+## Technical skills
+* Programming languages: JavaScript, Typescript, C++
+* Frameworks: React
+* State management systems: Redux
+* Version control systems: Git
+* Platforms: Mac, Windows
+* Issue Tracking: Jira
+* HTML5, CSS3, Bootstrap
+
+## Education and Certificates
+* 2018 - 2022, Software Engineering, Saratov State University
+* [RS School (Q1 2021)](/RSSchool%20Certificate.pdf)
+* Some courses on Udemy (React - [one](/React.pdf), [two](/Advanced%20React.pdf))
+* [Example of code](https://github.com/PrianiKate/priani-kate-ds.e)
+
+## Languages
+* English (B2)
+* Russian (native)
+
+## Experience
+### Grid Dinamics, UI Engineer
+07/2021 - 04/2022
+
+Mostly worked for medical startup Calibrate that changes the way the world treats weight. My team worked on the marketing site that was written in React & NextJS, added features and integrations for different form flows in Formsort, developed new pages for Prismic, added tags for marketing team in Google Tag Manager.
+
+### Responsibilities:
+* Developing functionality for marketing site: from specifications review and coding to deployment
+* Adding features for form flows
+* Adding and updating integrations with marketing tools via tags in Google Tag Manager
+* Clarifying requirements with stakeholders
+* Setting up integrations between different tools
+* Fixing bugs
+* Performing code reviews
+* Participating in backlog refinement, planning and retro
+
+### Technologies:
+* React
+* Next.js
+* Prismic
+* Netlify
+* Google Tag Manager
+* Formsort
+* AWS
+
+## Contacts
+E-mail: li.liliana@yandex.ru
+
+Telephone: +79378197478
+
+Telegram: @PrianiKate
