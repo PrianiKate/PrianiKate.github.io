@@ -28,7 +28,7 @@ Frontend Developer with project experience and strong motivation to develop my s
 
 ## Experience
 ### Grid Dinamics, UI Engineer
-07/2021 - 04/2022
+07/2021 - now
 
 Mostly worked for MedTech company that helps people to lose weight. My team worked on the marketing site that was written in React & NextJS, added features and integrations for different form flows in Formsort, developed new pages for Prismic, added tags for marketing team in Google Tag Manager.
 
