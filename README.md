@@ -5,7 +5,7 @@
 <!-- ![plot](https://prianikate.github.io/myPhoto.jpg) -->
 
 ## Summary
-Frontend Developer with project experience and strong motivation to develop my skills (it took me 6 month to grow from Junior to Middle). Studies at Saratov State University at the department of Computer Science and Informational Technology (last year). Participated in various programming competitions including Sourthern and Volga Russian Regional Contest, Russia Open High School Team Programming Contest.
+Frontend Developer with project experience and strong motivation to develop skills (it took 6 month to grow from Junior to Middle). Studies at Saratov State University at the department of Computer Science and Informational Technology (last year). Participated in various programming competitions including Sourthern and Volga Russian Regional Contest, Russia Open High School Team Programming Contest.
 
 ## Technical skills
 * Programming languages: JavaScript, Typescript, C++
