@@ -5,7 +5,7 @@
 <!-- ![plot](https://prianikate.github.io/myPhoto.jpg) -->
 
 ## Summary
-Frontend Developer with project experience and strong motivation to develop skills (it took 6 month to grow from Junior to Middle). Studies at Saratov State University at the department of Computer Science and Informational Technology (last year). Participated in various programming competitions including Sourthern and Volga Russian Regional Contest, Russia Open High School Team Programming Contest.
+Frontend Developer with strong motivation to develop skills. Studies at Saratov State University at the department of Computer Science and Informational Technology (last year). Participated in various programming competitions including Sourthern and Volga Russian Regional Contest, Russia Open High School Team Programming Contest.
 
 ## Technical skills
 * Programming languages: JavaScript, Typescript, C++
@@ -30,7 +30,7 @@ Frontend Developer with project experience and strong motivation to develop skil
 ### Grid Dinamics, UI Engineer
 07/2021 - now
 
-Mostly worked for MedTech company that helps people to lose weight. My team worked on the marketing site that was written in React & NextJS, added features and integrations for different form flows in Formsort, developed new pages for Prismic, added tags for marketing team in Google Tag Manager.
+Mostly worked for MedTech company that helps people to lose weight. Worked on the marketing site that was written in React & NextJS, added features and integrations for different form flows in Formsort, developed new pages for Prismic, added tags for marketing team in Google Tag Manager.
 
 ### Responsibilities:
 * Developing functionality for marketing site: from specifications review and coding to deployment
