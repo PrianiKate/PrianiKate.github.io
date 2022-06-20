@@ -5,7 +5,7 @@
 <!-- ![plot](https://prianikate.github.io/myPhoto.jpg) -->
 
 ## Summary
-Frontend Developer with strong motivation to develop skills. Studies at Saratov State University at the department of Computer Science and Informational Technology (last year). Participated in various programming competitions including Sourthern and Volga Russian Regional Contest, Russia Open High School Team Programming Contest.
+Frontend Developer with strong motivation to develop skills. Studies at Saratov State University at the department of Computer Science and Informational Technology (last year). Participated in various programming competitions including Southern and Volga Russian Regional Contest, Russia Open High School Team Programming Contest.
 
 ## Technical skills
 * Programming languages: JavaScript, Typescript, C++
